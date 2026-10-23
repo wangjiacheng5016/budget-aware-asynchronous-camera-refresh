@@ -1,0 +1,16 @@
+{
+  "protocol": "all-pairs repeatability across independent production FP32 batch=1 exports",
+  "thresholds": {
+    "translation": 0.005,
+    "size": 0.005,
+    "rotation_angle_deg": 5.0,
+    "velocity": 0.01,
+    "score": 0.0012588828802108766,
+    "count_difference": 1.1,
+    "class_count_l1": 1.1,
+    "attribute_mismatch_count": 1e-06,
+    "unmatched_reference_count": 1.1,
+    "unmatched_actual_count": 1.1,
+    "unmatched_score_threshold_distance": 0.044867922067642216
+  }
+}

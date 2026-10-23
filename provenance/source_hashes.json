@@ -1,0 +1,266 @@
+{
+  "src/activecam_bev/__init__.py": {
+    "original_sha256": "2ab759b47fb30b7dee6bcd17081038aebd6ca5d1e00d01183d16f24ca04e5fcf",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "2ab759b47fb30b7dee6bcd17081038aebd6ca5d1e00d01183d16f24ca04e5fcf"
+  },
+  "src/activecam_bev/activecam_core.py": {
+    "original_sha256": "dc254cd4576d9ba6ac2033ccbad2726a70c74602011c9a90fa6352cd8ecb4abc",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "dc254cd4576d9ba6ac2033ccbad2726a70c74602011c9a90fa6352cd8ecb4abc"
+  },
+  "src/activecam_bev/router_core.py": {
+    "original_sha256": "bcdcbd899f5ed0c6a4f26bb3f85556dac65f04848ecc99c76a9a48dc18038c48",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "bcdcbd899f5ed0c6a4f26bb3f85556dac65f04848ecc99c76a9a48dc18038c48"
+  },
+  "src/activecam_bev/router_model.py": {
+    "original_sha256": "fc6a68a8b48bd488308c2d79dadd15d5b7b7054c13806fbf9dbc2632d4face92",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "fc6a68a8b48bd488308c2d79dadd15d5b7b7054c13806fbf9dbc2632d4face92"
+  },
+  "src/activecam_bev/mini_preflight.py": {
+    "original_sha256": "62615f97ef566fa7b69f3c85300fb2afd7b880c9f80d6b6b25fed553104ff321",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "62615f97ef566fa7b69f3c85300fb2afd7b880c9f80d6b6b25fed553104ff321"
+  },
+  "src/activecam_bev/result_io.py": {
+    "original_sha256": "c37f2836e5ad3dace1b9e617b4c4496d00d3b4c7fd37c32370b33e66aa1d74b4",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "c37f2836e5ad3dace1b9e617b4c4496d00d3b4c7fd37c32370b33e66aa1d74b4"
+  },
+  "src/activecam_bev/official_history_protocol.py": {
+    "original_sha256": "f3619f897de352290560f27624fc2ed469734b85b86376e2c92661e3dd35abaf",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "f3619f897de352290560f27624fc2ed469734b85b86376e2c92661e3dd35abaf"
+  },
+  "src/activecam_bev/eval_router.py": {
+    "original_sha256": "f886a64167f44f0a55ac61c542cc82f4e4c2f3c8d41f868c9952d5d920a4453a",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "f886a64167f44f0a55ac61c542cc82f4e4c2f3c8d41f868c9952d5d920a4453a"
+  },
+  "src/activecam_bev/eval_fixed_subset.py": {
+    "original_sha256": "753040d3e4902589fbdeeac887d8019c43baf5bfa0326b0ad16d2d99eeb08f5a",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "753040d3e4902589fbdeeac887d8019c43baf5bfa0326b0ad16d2d99eeb08f5a"
+  },
+  "src/activecam_bev/eval_controlled_staleness.py": {
+    "original_sha256": "1fe0ba4bbb54da16afde8f1780b64a7e3d427f61933d520c76b28375e274b56c",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "1fe0ba4bbb54da16afde8f1780b64a7e3d427f61933d520c76b28375e274b56c"
+  },
+  "src/activecam_bev/eval_variable_budget.py": {
+    "original_sha256": "a026cf21c9095db461a3b2695afdadd598a8a0be7eaa157096b2459f398dc266",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "a026cf21c9095db461a3b2695afdadd598a8a0be7eaa157096b2459f398dc266"
+  },
+  "src/activecam_bev/eval_robustness.py": {
+    "original_sha256": "d3fbda103d8b79931051a611871654e1e2238516447b225e62197dd0c3f5e6dc",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "d3fbda103d8b79931051a611871654e1e2238516447b225e62197dd0c3f5e6dc"
+  },
+  "src/activecam_bev/robustness_protocol.py": {
+    "original_sha256": "eb7870d2282119701fea48c52af29bc5de152236a583a24d12f4f29b7c15a800",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "eb7870d2282119701fea48c52af29bc5de152236a583a24d12f4f29b7c15a800"
+  },
+  "src/activecam_bev/variable_budget_schedule.py": {
+    "original_sha256": "1de036704a6befe83bcf347528ec0c1f510f840c1cb0a2061a0a352e8913dd0f",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "1de036704a6befe83bcf347528ec0c1f510f840c1cb0a2061a0a352e8913dd0f"
+  },
+  "src/activecam_bev/scene_paired_bootstrap.py": {
+    "original_sha256": "7e8fe9d84b168ea24b748da7879dee94bf149c18efdb8219d5b2fdeeb22f031b",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "7e8fe9d84b168ea24b748da7879dee94bf149c18efdb8219d5b2fdeeb22f031b"
+  },
+  "src/activecam_bev/benchmark_activecam_end_to_end.py": {
+    "original_sha256": "3da42392f4f536bceeaddb02ece73d93f3116fcb6474df278b8f58f23b12233c",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "3da42392f4f536bceeaddb02ece73d93f3116fcb6474df278b8f58f23b12233c"
+  },
+  "src/activecam_bev/eval_official_history_protocol_a.py": {
+    "original_sha256": "f5317aa7e1146fc333b234ad6143624cf5eaac52b22c780df5ca78747ef8e3bd",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "f5317aa7e1146fc333b234ad6143624cf5eaac52b22c780df5ca78747ef8e3bd"
+  },
+  "src/activecam_bev/eval_official_history_protocol_b.py": {
+    "original_sha256": "430034277e399e1f029beb90ca7ec9db54fed72b8c819c5910e58c2e42e744a5",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "430034277e399e1f029beb90ca7ec9db54fed72b8c819c5910e58c2e42e744a5"
+  },
+  "src/activecam_bev/export_current_only_camera_cache.py": {
+    "original_sha256": "13eef88d5ddb8888b08607c176d7e528aba95c202413938e6c47293bed89eb5a",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "13eef88d5ddb8888b08607c176d7e528aba95c202413938e6c47293bed89eb5a"
+  },
+  "src/activecam_bev/extract_nuscenes_keyframes.py": {
+    "original_sha256": "02c33774287b4a18039c857dcf81779144812d008efe630ad034ad53f6b0e8c8",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "02c33774287b4a18039c857dcf81779144812d008efe630ad034ad53f6b0e8c8"
+  },
+  "src/activecam_bev/eval_common_support_staleness.py": {
+    "original_sha256": "067efe3d321048e75be1f54c535d1dbd738b7e878e46c3a206f0113a2b7e5261",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "067efe3d321048e75be1f54c535d1dbd738b7e878e46c3a206f0113a2b7e5261"
+  },
+  "src/activecam_bev/h2_teacher_gate.py": {
+    "original_sha256": "3032f5aedbfacd602e81e926095efefe9c63097705a86a710225516c7e33a4ad",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "3032f5aedbfacd602e81e926095efefe9c63097705a86a710225516c7e33a4ad"
+  },
+  "src/activecam_bev/h2_teacher_gate_parallel.py": {
+    "original_sha256": "d87765b210bdd820d9740fc5c96c70622e2700dcb8c6ec2ea75d846c86fa5989",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "d87765b210bdd820d9740fc5c96c70622e2700dcb8c6ec2ea75d846c86fa5989"
+  },
+  "src/activecam_bev/h4_one_swap_teacher.py": {
+    "original_sha256": "68c56d701a56caaa01a3fccfdb1d9736184facca08c7574c4c441bd9994fa5d9",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "68c56d701a56caaa01a3fccfdb1d9736184facca08c7574c4c441bd9994fa5d9"
+  },
+  "src/legacy_v31/train_official_nuscenes_nds_kd_v2.py": {
+    "original_sha256": "d63fef0bcc0cda2606299c1aaa7f7eb2c1272dbe9437601473b6121dc0bb89f0",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "d63fef0bcc0cda2606299c1aaa7f7eb2c1272dbe9437601473b6121dc0bb89f0"
+  },
+  "src/legacy_v31/train_student_mnv3_kd_ablation_full.py": {
+    "original_sha256": "f164724cee12600571d3f590dbee8037f5e4eb61f057ef6cf436e2c0db955e64",
+    "source": "frozen experiment source",
+    "changes": "Line endings normalized to LF",
+    "released_sha256": "8950cfc5f1142bc672af70e5efc852c9864bf6696946ce9f08208084bba5ce94"
+  },
+  "src/legacy_v31/eval_variable_camera_subsets.py": {
+    "original_sha256": "36b25f5bbbae290952adc4b1894435c1ccee0b2cff1f461078adcffa36b0d38a",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "36b25f5bbbae290952adc4b1894435c1ccee0b2cff1f461078adcffa36b0d38a"
+  },
+  "src/legacy_v31/benchmark_v31_jetson.py": {
+    "original_sha256": "dd560a17cde5babebfeb70494ab2c35813066b38ddd9d9d9454086bff5bb09a5",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "dd560a17cde5babebfeb70494ab2c35813066b38ddd9d9d9454086bff5bb09a5"
+  },
+  "src/legacy_v31/benchmark_v31_rtx.py": {
+    "original_sha256": "b008e46b4dbdbeaddbcd70d45af4ada9a3b422bbc99d1cf2f9a233218feeb158",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "b008e46b4dbdbeaddbcd70d45af4ada9a3b422bbc99d1cf2f9a233218feeb158"
+  },
+  "src/legacy_v31/benchmark_v31_real_inputs.py": {
+    "original_sha256": "b2d45ded76168f7711480b5014eccd19e2ec114a556a6dc1944a04af6f37098b",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "b2d45ded76168f7711480b5014eccd19e2ec114a556a6dc1944a04af6f37098b"
+  },
+  "src/paper_comparison/dual_common.py": {
+    "original_sha256": "746e663491aff340e666734986d107b3b161b3ae11f8559e615ccd2d33b748f7",
+    "source": "frozen experiment source",
+    "changes": "Path configuration and source-location plumbing only; numerical method unchanged",
+    "released_sha256": "f30776c5e14d5775b6be7f5ecf6148ace66d5ef613dfeb09aef5862b0656962f"
+  },
+  "src/paper_comparison/dual_mechanism_replay.py": {
+    "original_sha256": "e9f7c10ccd0601d37e89294ad0ac0389e0cae6cbd7cf1f7e8c7e0d52fef9139f",
+    "source": "frozen experiment source",
+    "changes": "Path configuration and source-location plumbing only; numerical method unchanged",
+    "released_sha256": "9bd470977f3bc55b05c5d47760a4bdb50f3a3d23891e9152d58d862d4c3c787a"
+  },
+  "src/paper_comparison/prepare_dual_cache.py": {
+    "original_sha256": "eea0f4f3bd2642c1f21a0d34b6ffff52642ea22ce539ffb2b22e9ee251bd54cc",
+    "source": "frozen experiment source",
+    "changes": "Path configuration and source-location plumbing only; numerical method unchanged",
+    "released_sha256": "84c27f135e52218893c5da4df41529a537d70278dabdbc9262e9637dd65bd0d4"
+  },
+  "src/paper_comparison/mechanism_adapters.py": {
+    "original_sha256": "80e0ddb3df54b5705165e3db9fd9b78e223680b972c0eb3c64555d64dcaaa571",
+    "source": "frozen experiment source",
+    "changes": "Path configuration and source-location plumbing only; numerical method unchanged",
+    "released_sha256": "a8b9f687a9e8084a249b9ee362a5f25a4d69fbe8a9c98a985987e145cec7c3f7"
+  },
+  "configs/fp32_repeatability_guard.json": {
+    "original_sha256": "0188531dc48f0a5deb66286a1a01300443c7508128fc33d54fc604881d60462d",
+    "source": "frozen experiment source",
+    "changes": "Retained frozen protocol and all thresholds; omitted machine-specific inventory; line endings normalized to LF",
+    "released_sha256": "a4fd1762950931a68c42ce5fb56e30cfce4be5dc9765ae50bbd0d2c2cade13ca"
+  },
+  "tests/test_activecam_core.py": {
+    "original_sha256": "eb625929f74de1e84b3c8313045fd72ff6517deaa1291656916f2a61f5a24cf9",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "eb625929f74de1e84b3c8313045fd72ff6517deaa1291656916f2a61f5a24cf9"
+  },
+  "tests/test_router_core.py": {
+    "original_sha256": "6796239aa000e56c9fc68c8e9bf8240864ec431c1c3f2242f45a13e7ed5f64ce",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "6796239aa000e56c9fc68c8e9bf8240864ec431c1c3f2242f45a13e7ed5f64ce"
+  },
+  "tests/test_official_history_protocol.py": {
+    "original_sha256": "15a6605546e80920932d151e8d495a230fb62a219166616acd6f822b2339c035",
+    "source": "frozen experiment source",
+    "changes": "Adjusted test source location; omitted text checks of server-only orchestration scripts not distributed in this code release",
+    "released_sha256": "9442a0d02047da0ddb31dbc24c15c37b45a97ef41fcda45498678283e53b33c8"
+  },
+  "tests/test_variable_budget_phase.py": {
+    "original_sha256": "0013f652b78e906150ad4b75042f67f7798cbb98fd4dc6c0415bdd951d071e63",
+    "source": "frozen experiment source",
+    "changes": "none",
+    "released_sha256": "0013f652b78e906150ad4b75042f67f7798cbb98fd4dc6c0415bdd951d071e63"
+  },
+  "tests/test_controlled_staleness.py": {
+    "original_sha256": "698d60ac58ba9e6c087ba21118765c4eeb63ed9599f27133c0529f560be2b5ae",
+    "source": "frozen experiment source",
+    "changes": "Adjusted test source location; omitted text checks of server-only orchestration scripts not distributed in this code release",
+    "released_sha256": "9947db940849dcd32881e0bce57accad5818290dc21b1237377f0c095fdfcc9d"
+  },
+  "benchmarks/jetson/benchmark_activecam_jetson_trt.py": {
+    "original_sha256": "9da8e553c5af6177408b9a135268e5ffc66ecc3616f6a92fae89c1e251f21e50",
+    "source": "original Jetson benchmark source",
+    "changes": "none",
+    "released_sha256": "9da8e553c5af6177408b9a135268e5ffc66ecc3616f6a92fae89c1e251f21e50"
+  },
+  "benchmarks/jetson/benchmark_temporal_jetson_trt.py": {
+    "original_sha256": "57706b2167c5d5a1de6b81f442ad203cec48a9afb36534ce0b1deb7c978606c3",
+    "source": "original Jetson benchmark source",
+    "changes": "Path configuration and source-location plumbing only; numerical method unchanged",
+    "released_sha256": "81a5007ce903e8533bbf42f8e8915ba29b2c0f85af6810be3a55c6b4b2cf0115"
+  },
+  "benchmarks/jetson/benchmark_scheduler_memory_overhead.py": {
+    "original_sha256": "3e4566eda9373c3dba7b8b698ea3ca26a24c3e65b5464ea86cc382575c1e7842",
+    "source": "original Jetson benchmark source",
+    "changes": "none",
+    "released_sha256": "3e4566eda9373c3dba7b8b698ea3ca26a24c3e65b5464ea86cc382575c1e7842"
+  },
+  "src/activecam_bev/replay_stratified_analysis.py": {
+    "original_sha256": "e6a62f8cf68758b21650cda204a5975e034201b5f81ba7bde5d180e6c6c2fe76",
+    "released_sha256": "e6a62f8cf68758b21650cda204a5975e034201b5f81ba7bde5d180e6c6c2fe76",
+    "source": "frozen experiment source",
+    "changes": "none"
+  }
+}

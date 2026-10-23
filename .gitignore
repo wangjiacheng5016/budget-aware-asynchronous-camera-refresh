@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+data/
+checkpoints/
+external/
+runs/
+logs/
+*.pth
+*.pt
+*.onnx
+*.engine
+*.plan
+*.log

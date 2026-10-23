@@ -1,0 +1,12 @@
+# Paper implementation tested with Python 3.12, PyTorch 2.3.0+cu121,
+# torchvision 0.18.0+cu121. Install that CUDA pair separately (README).
+numpy==1.26.4
+scipy==1.17.1
+nuscenes-devkit==1.2.0
+pyquaternion==0.9.9
+PyYAML==6.0.1
+filterpy==1.4.5
+numba==0.61.2
+opencv-python-headless==4.11.0.86
+Pillow>=10,<12
+tqdm>=4.66,<5
